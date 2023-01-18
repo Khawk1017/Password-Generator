@@ -9,7 +9,8 @@ this application is a password generator that once clicked will give a randomly 
 - interactive 
 
 #### Screenshots 
-![Prompt with 17](/img/Password1.png)
-![Asks for special characters](/img/Special.png)
-![Generated](/img/Password2.png)
+![Prompt with 17](/assets/img/Password1.png)
+![Asks for special characters](/assets/img/Special.png)
+![Generated](/assets/img/Password2.png)
+
 
